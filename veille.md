@@ -22,7 +22,7 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - Cocadmin
 - ITConnect
 - Underscore
-- LeFiltre 
+- LeFiltre  
 ### Podcast : 
 - Nolimitsecu
 - Un Monde Connecté
