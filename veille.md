@@ -13,11 +13,11 @@ https://x.com/bortzmeyer
 MISC Magazine : https://boutique.ed-diamond.com/  
 LinkedIn  
 Cyber Dico de l'ANSSI  
-### Chaîne Youtube
--Xavki-
--Stéphane Robert-
--Cocadmin-
--ITConnect-
--Underscore-
--LeFiltre-
+### Chaîne Youtube :
+- Xavki -
+- Stéphane Robert -
+- Cocadmin -
+- ITConnect -
+- Underscore -
+- LeFiltre -
 
