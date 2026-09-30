@@ -1,12 +1,13 @@
 # La veille technologique 
-## Ques-ce que la veille technologique 
+
+## Qu'est-ce que la veille technologique 
 La veille technologique consiste à s'informer, collecter et diffuser les nouveautés et les avancées technologiques dans le but de s'adapter et de préparer les innovations. 
 #### Comprend :
 - Technologique emergente
 - Documentaire ex: rapport ANSSI
 - Sectorielle ex: IT dans la santé 
 - Concurencielle 
-### Moyen : 
+#### Moyens : 
 - Physique (papier, presse, livre)
 - Numérique (webzine, portail)
 - Audio (podcast)
@@ -33,8 +34,17 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - Stéphane Robert
 - Cocadmin
 - ITConnect
-- Underscore 
+- Underscore
+
 ### Podcast : 
 - Nolimitsecu
 - Un Monde Connecté
 - La fabrique de l'information
+
+### Le moyens le plus efficace : Un flux RSS
+Un flux RSS consiste à récupérer automatique de nouveaux articles sur des sites présélectionnés pour les regrouper sur un même endroit.
+Permet une centralisation et un gain de temsp en ne visitant plus un à un les sites web.
+
+#### Comment ? 
+Avec un lecteur RSS, tu récupères toi même les addresses RSS des sites que tu souhaites.
+Feedly ou Inoreader
