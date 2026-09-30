@@ -27,11 +27,10 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - https://x.com/bortzmeyer  
 - MISC Magazine https://boutique.ed-diamond.com/ 
 - Cyber Dico de l'ANSSI  https://cyber.gouv.fr/
-- Profils Linkedin 
+- Profils Linkedin *ex:* [Stéphane Robert]linkedin.com/in/stephanerobert1
 
 ### Chaîne Youtube :
 - Xavki (https://www.youtube.com/@xavki)
-- Stéphane Robert
 - Cocadmin
 - ITConnect
 - Underscore
@@ -42,10 +41,10 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - La fabrique de l'information
 
 ## Le moyens le plus efficace : Un flux RSS
-Un flux RSS consiste à récupérer automatique de nouveaux articles sur des sites présélectionnés pour les regrouper sur un même endroit.
-Permet une centralisation et un gain de temsp en ne visitant plus un à un les sites web.
+Un flux RSS consiste à récupérer automatique de nouveaux articles sur des sites présélectionnés pour les regrouper sur un même endroit.  
+Permet une centralisation et un gain de temsp en ne visitant plus un à un les sites web.  
 Fonctionne avec des articles, youtube (pour voir les nouvelles vidéos), des alertes, Github, mise à jour de logiciel.
 
 ### Comment ? 
-Avec un lecteur RSS, tu récupères toi même les addresses RSS des sites que tu souhaites.
+Avec un lecteur RSS, tu récupères toi même les addresses RSS des sites que tu souhaites.  
 Feedly, Inoreader ou Fluentreader (opensource)
