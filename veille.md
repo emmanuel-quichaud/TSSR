@@ -1,11 +1,11 @@
 # La veille technologique 
 
 ## Qu'est-ce que la veille technologique 
-La veille technologique consiste à s'informer, collecter et diffuser les nouveautés et les avancées technologiques dans le but de s'adapter et de préparer les innovations. 
+La veille technologique consiste à s'informer, collecter et diffuser les nouveautés et les avancées technologiques dans le but de s'adapter et de se préparer aux innovations. 
 #### Comprend :
-- Technologique emergente
-- Documentaire ex: rapport ANSSI
-- Sectorielle ex: IT dans la santé 
+- Technologies emergentes
+- Documentaires *ex*: rapport ANSSI
+- Sectorielles *ex*: IT dans la santé 
 - Concurencielle 
 #### Moyens : 
 - Physique (papier, presse, livre)
@@ -25,12 +25,12 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - https://www.laquadrature.net/en/  
 - https://x.com/InfosReseaux  
 - https://x.com/bortzmeyer  
-- MISC Magazine : https://boutique.ed-diamond.com/  
-- LinkedIn  
-- Cyber Dico de l'ANSSI  
+- MISC Magazine https://boutique.ed-diamond.com/ 
+- Cyber Dico de l'ANSSI  https://cyber.gouv.fr/
+- Profils Linkedin 
 
 ### Chaîne Youtube :
-- Xavki
+- Xavki (https://www.youtube.com/@xavki)
 - Stéphane Robert
 - Cocadmin
 - ITConnect
@@ -41,10 +41,11 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - Un Monde Connecté
 - La fabrique de l'information
 
-### Le moyens le plus efficace : Un flux RSS
+## Le moyens le plus efficace : Un flux RSS
 Un flux RSS consiste à récupérer automatique de nouveaux articles sur des sites présélectionnés pour les regrouper sur un même endroit.
 Permet une centralisation et un gain de temsp en ne visitant plus un à un les sites web.
+Fonctionne avec des articles, youtube (pour voir les nouvelles vidéos), des alertes, Github, mise à jour de logiciel.
 
-#### Comment ? 
+### Comment ? 
 Avec un lecteur RSS, tu récupères toi même les addresses RSS des sites que tu souhaites.
-Feedly ou Inoreader
+Feedly, Inoreader ou Fluentreader (opensource)
