@@ -24,6 +24,11 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - https://www.laquadrature.net/en/  
 - MISC Magazine https://boutique.ed-diamond.com/ 
 - Cyber Dico de l'ANSSI  https://cyber.gouv.fr/
+- (https://www.informatiquenews.fr/) 
+- (https://www.it-connect.fr/)
+- (https://www.comptoir-hardware.com/)
+- (https://www.tomshardware.fr/)
+- (https://www.silicon.fr/#)
 ### Les réseaux : 
 - Profils Linkedin *ex:* [Stéphane Robert](https://www.linkedin.com/in/stephanerobert1/)
 - https://x.com/InfosReseaux  
