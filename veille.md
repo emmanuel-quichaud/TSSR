@@ -16,7 +16,6 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - Flux RSS
 
 ## Les outils de la veille technologiques  
-
 ### Les sites :
 - https://www.privacytools.io/  
 - https://www.bortzmeyer.org/  
@@ -28,7 +27,6 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - MISC Magazine https://boutique.ed-diamond.com/ 
 - Cyber Dico de l'ANSSI  https://cyber.gouv.fr/
 - Profils Linkedin *ex:* [Stéphane Robert](https://www.linkedin.com/in/stephanerobert1/)
-
 ### Chaîne Youtube :
 #### Veille IT :
 ##### Français :
@@ -39,7 +37,6 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 ##### Anglais :
 - [NetworkChuck](https://www.youtube.com/@NetworkChuck)
 - [David Bombal](https://www.youtube.com/@davidbombal)
-
 #### Vulgarisation :
 ##### Français :
 - [Micode](https://www.youtube.com/@Micode)
@@ -47,8 +44,6 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 ##### Anglais : 
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [ColdFusion](https://www.youtube.com/@ColdFusion)
-  
-    
 ### Podcast : 
 - Nolimitsecu
 - Un Monde Connecté
@@ -58,7 +53,6 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 Un flux RSS consiste à récupérer automatique de nouveaux articles sur des sites présélectionnés pour les regrouper sur un même endroit.  
 Permet une centralisation et un gain de temsp en ne visitant plus un à un les sites web.  
 Fonctionne avec des articles, youtube (pour voir les nouvelles vidéos), des alertes, Github, mise à jour de logiciel.
-
 ### Comment ? 
 Avec un lecteur RSS, tu récupères toi même les addresses RSS des sites que tu souhaites.  
 Feedly, Inoreader ou Fluentreader (opensource)
