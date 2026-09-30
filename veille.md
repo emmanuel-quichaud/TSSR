@@ -30,10 +30,23 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - Profils Linkedin *ex:* [Stéphane Robert](https://www.linkedin.com/in/stephanerobert1/)
 
 ### Chaîne Youtube :
+#### Veille IT :
+##### Français :
 - [Xavki](https://www.youtube.com/@xavki)
-- Cocadmin
-- ITConnect
-- Underscore
+- [Cocadmin](https://www.youtube.com/@cocadmin)
+- [ITConnect](https://www.youtube.com/@IT-Connect)
+- [Underscore](https://www.youtube.com/@Underscore_)
+##### Anglais :
+- [NetworkChuck](https://www.youtube.com/@NetworkChuck)
+- [David Bombal](https://www.youtube.com/@davidbombal)
+
+#### Vulgarisation :
+##### Français :
+- [Micode](https://www.youtube.com/@Micode)
+- [Balade mentale](https://www.youtube.com/@BaladeMentale)
+#### Anglais : 
+- [Computerphile](https://www.youtube.com/@Computerphile)
+- [ColdFusion](https://www.youtube.com/@ColdFusion)
 
 ### Podcast : 
 - Nolimitsecu
