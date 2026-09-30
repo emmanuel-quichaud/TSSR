@@ -33,6 +33,7 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - Profils Linkedin *ex:* [Stéphane Robert](https://www.linkedin.com/in/stephanerobert1/)
 - https://x.com/InfosReseaux  
 - https://x.com/bortzmeyer  
+- [Reddit](https://www.reddit.com/)
 ### Chaîne Youtube :
 #### Veille IT :
 ##### Français :
