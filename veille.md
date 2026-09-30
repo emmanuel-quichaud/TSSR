@@ -27,7 +27,7 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - https://x.com/bortzmeyer  
 - MISC Magazine https://boutique.ed-diamond.com/ 
 - Cyber Dico de l'ANSSI  https://cyber.gouv.fr/
-- Profils Linkedin *ex:* [Stéphane Robert]linkedin.com/in/stephanerobert1
+- Profils Linkedin *ex:* [Stéphane Robert](linkedin.com/in/stephanerobert1)
 
 ### Chaîne Youtube :
 - Xavki (https://www.youtube.com/@xavki)
