@@ -2,7 +2,7 @@
 
 ## Qu'est-ce que la veille technologique 
 La veille technologique consiste à s'informer, collecter et diffuser les nouveautés et les avancées technologiques dans le but de s'adapter et de se préparer aux innovations. 
-#### Comprend :
+#### Médias :
 - Technologies emergentes
 - Documentaires *ex*: rapport ANSSI
 - Sectorielles *ex*: IT dans la santé 
