@@ -41,8 +41,10 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - [David Bombal](https://www.youtube.com/@davidbombal)
 
 #### Vulgarisation :
-##### Français : - [Micode](https://www.youtube.com/@Micode)- [Balade mentale](https://www.youtube.com/@BaladeMentale)
-#### Anglais : 
+##### Français :
+- [Micode](https://www.youtube.com/@Micode)
+- [Balade mentale](https://www.youtube.com/@BaladeMentale)
+##### Anglais : 
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [ColdFusion](https://www.youtube.com/@ColdFusion)
   
