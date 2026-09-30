@@ -30,7 +30,7 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - Profils Linkedin *ex:* [Stéphane Robert](linkedin.com/in/stephanerobert1)
 
 ### Chaîne Youtube :
-- Xavki (https://www.youtube.com/@xavki)
+- [Xavki](https://www.youtube.com/@xavki)
 - Cocadmin
 - ITConnect
 - Underscore
