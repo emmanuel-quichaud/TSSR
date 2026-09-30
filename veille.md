@@ -22,11 +22,12 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 - https://www.next.ink  
 - https://www.minimachines.net/  
 - https://www.laquadrature.net/en/  
-- https://x.com/InfosReseaux  
-- https://x.com/bortzmeyer  
 - MISC Magazine https://boutique.ed-diamond.com/ 
 - Cyber Dico de l'ANSSI  https://cyber.gouv.fr/
+### Les réseaux : 
 - Profils Linkedin *ex:* [Stéphane Robert](https://www.linkedin.com/in/stephanerobert1/)
+- https://x.com/InfosReseaux  
+- https://x.com/bortzmeyer  
 ### Chaîne Youtube :
 #### Veille IT :
 ##### Français :
