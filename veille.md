@@ -47,7 +47,8 @@ La veille technologique consiste à s'informer, collecter et diffuser les nouvea
 #### Anglais : 
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [ColdFusion](https://www.youtube.com/@ColdFusion)
-
+  
+    
 ### Podcast : 
 - Nolimitsecu
 - Un Monde Connecté
