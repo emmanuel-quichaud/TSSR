@@ -53,9 +53,3 @@
 - **Transformer** : architecture de réseau neuronal utilisant notamment un mécanisme d’attention pour traiter les relations entre les éléments d’une entrée.
 - **Vérification** : contrôle visant à déterminer si une information, une réponse ou une action est correcte.
 - **Wikipedia** : encyclopédie collaborative en ligne dont les articles sont rédigés et modifiés par des bénévoles.
-- super intelligence
-- token
-- TPU
-- Transformer
-- vérification
-- wikipedia
