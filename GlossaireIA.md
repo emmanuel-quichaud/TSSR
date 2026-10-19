@@ -6,18 +6,25 @@
 
 - **Alignement** : démarche visant à faire correspondre le comportement d’une IA aux intentions et aux objectifs humains.  
 
-- **API** : (Application Programming Interface / Interface de programmation d'application)interface logicielle qui permet à deux programmes ou services informatiques de communiquer et d'échanger des données entre eux
+- **API** : (Application Programming Interface / Interface de programmation d'application) interface logicielle qui permet à deux programmes ou services informatiques de communiquer et d'échanger des données entre eux
 
 - **Apprentissage** : processus par lequel un modèle ajuste son fonctionnement à partir de données ou d’exemples.  
 Cf : Machine Learning (ML) / Deep Learning / Appentisssage supervisé - non supervisé
 
-- **Auto-apprentissage** : capacité d’un système à apprendre à partir de données ou de retours avec peu d’intervention humaine.
-- **Automatisation** : exécution d’une tâche par un logiciel ou une machine avec peu ou pas d’intervention humaine.
-- **Autonomie** : capacité d’un système à fonctionner ou à prendre des décisions sans intervention humaine constante.
-- **Base de données** : ensemble organisé d’informations pouvant être consultées, modifiées et gérées.
-- **Bulle IA** : situation où les investissements et les attentes autour de l’intelligence artificielle risquent de dépasser sa valeur ou ses résultats réels.
-- **Capacité** : aptitude d’un modèle ou d’un système à accomplir une tâche.
-- **CUDA** : plateforme logicielle de NVIDIA permettant d’utiliser des GPU compatibles pour effectuer des calculs parallèles.
+- **Auto-apprentissage** : capacité d’un système à apprendre à partir de données ou de retours avec peu d’intervention humaine. C'est-à-dire qu'un modèle se modifie automatiquement à chaque conversation.
+
+- **Automatisation** : exécution d’une tâche par un logiciel ou une machine avec peu ou pas d’intervention humaine.  
+
+- **Autonomie** : capacité d’un système à fonctionner ou à prendre des décisions sans intervention humaine constante.  
+
+- **Base de données** : ensemble organisé d’informations pouvant être consultées, modifiées et gérées. Son administration implique la gestion des accès, des sauvegardes, de la restauration, de la disponibilité et de la cohérence. Une base de données ne se confond pas avec un simple fichier.  
+
+- **Bulle IA** : situation où les investissements et les attentes autour de l’intelligence artificielle risquent de dépasser sa valeur ou ses résultats réels.  
+
+- **Capacité** : aptitude d’un modèle ou d’un système à accomplir une tâche. (ex: résumer un texte, aider à programmer, ...)  
+
+- **CUDA** : (Compute Unified Device Architex=cture) plateforme logicielle de NVIDIA permettant d’utiliser des GPU compatibles pour effectuer des calculs parallèles. Permet en autre de délester le CPU vers le GPU.  
+
 - **Cyberattaque par IA** : attaque informatique dans laquelle l’intelligence artificielle aide à automatiser ou à améliorer certaines opérations.
 - **Danger** : situation ou élément susceptible de provoquer un dommage.
 - **Distillation** : technique d’entraînement dans laquelle un modèle plus petit apprend à reproduire une partie du comportement d’un modèle plus grand.
@@ -26,7 +33,7 @@ Cf : Machine Learning (ML) / Deep Learning / Appentisssage supervisé - non supe
 - **Frontière (modèle)** : limite des capacités d’un modèle ; l’expression « modèle de frontière » désigne généralement un modèle d’IA parmi les plus avancés.
 - **Génératif** : capable de produire du contenu, par exemple du texte, des images, du son ou du code.
 - **Gouvernance** : règles, responsabilités et contrôles encadrant le développement et l’utilisation d’un système.
-- **GPU** : processeur conçu pour effectuer de nombreux calculs en parallèle, utilisé notamment pour l’IA.
+- **GPU** : (Graphics Processing Unit) processeur conçu pour effectuer de nombreux calculs en parallèle, utilisé notamment pour l’IA.
 - **Hallucination** : réponse d’une IA qui semble plausible, mais contient une information fausse ou inventée.
 - **Harnais** : ensemble de composants qui encadrent un modèle et gèrent ses consignes, ses outils, son exécution et ses contrôles.
 - **HuggingFace** : plateforme proposant des modèles, des jeux de données et des outils pour développer et utiliser des systèmes d’IA.
