@@ -9,11 +9,7 @@
 - **API** : (Application Programming Interface / Interface de programmation d'application)interface logicielle qui permet à deux programmes ou services informatiques de communiquer et d'échanger des données entre eux
 
 - **Apprentissage** : processus par lequel un modèle ajuste son fonctionnement à partir de données ou d’exemples.  
-Cf : 
-- Machine Learning (ML)
-- Deep Learning 
-- Appentisssage supervisé / non supervisé
-
+Cf : Machine Learning (ML) / Deep Learning / Appentisssage supervisé - non supervisé
 
 - **Auto-apprentissage** : capacité d’un système à apprendre à partir de données ou de retours avec peu d’intervention humaine.
 - **Automatisation** : exécution d’une tâche par un logiciel ou une machine avec peu ou pas d’intervention humaine.
