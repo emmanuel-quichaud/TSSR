@@ -63,4 +63,3 @@ Fonctionne avec des articles, youtube (pour voir les nouvelles vidéos), des ale
 ### Comment ? 
 Avec un lecteur RSS, tu récupères toi même les addresses RSS des sites que tu souhaites.  
 Feedly, Inoreader ou Fluentreader (opensource)
-tes réussi ?

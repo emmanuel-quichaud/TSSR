@@ -1,10 +1,20 @@
 # Glossaire
 
-- **Agent** : système qui observe son environnement, choisit des actions et les exécute pour atteindre un objectif.
-- **Algorithme** : suite d’instructions ou de règles permettant de résoudre un problème ou d’effectuer une tâche.
-- **Alignement** : démarche visant à faire correspondre le comportement d’une IA aux intentions et aux objectifs humains.
-- **API** : interface permettant à des logiciels de communiquer entre eux.
-- **Apprentissage** : processus par lequel un modèle ajuste son fonctionnement à partir de données ou d’exemples.
+- **Agent** : système qui observe son environnement, choisit des actions et les exécute pour atteindre un objectif précis de façon autonome.  
+
+- **Algorithme** : suite d’instructions ou de règles permettant de résoudre un problème ou d’effectuer une tâche.  
+
+- **Alignement** : démarche visant à faire correspondre le comportement d’une IA aux intentions et aux objectifs humains.  
+
+- **API** : (Application Programming Interface / Interface de programmation d'application)interface logicielle qui permet à deux programmes ou services informatiques de communiquer et d'échanger des données entre eux
+
+- **Apprentissage** : processus par lequel un modèle ajuste son fonctionnement à partir de données ou d’exemples.  
+### Cf : 
+- Machine Learning (ML)
+- Deep Learning 
+- Appentisssage supervisé / non supervisé
+
+
 - **Auto-apprentissage** : capacité d’un système à apprendre à partir de données ou de retours avec peu d’intervention humaine.
 - **Automatisation** : exécution d’une tâche par un logiciel ou une machine avec peu ou pas d’intervention humaine.
 - **Autonomie** : capacité d’un système à fonctionner ou à prendre des décisions sans intervention humaine constante.
@@ -53,3 +63,6 @@
 - **Transformer** : architecture de réseau neuronal utilisant notamment un mécanisme d’attention pour traiter les relations entre les éléments d’une entrée.
 - **Vérification** : contrôle visant à déterminer si une information, une réponse ou une action est correcte.
 - **Wikipedia** : encyclopédie collaborative en ligne dont les articles sont rédigés et modifiés par des bénévoles.
+
+
+[Glossaire IA CNIL.](https://www.cnil.fr/fr/intelligence-artificielle/glossaire-ia)
