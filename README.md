@@ -1,3 +1,3 @@
 # TSSR
-Dépot initiation .md
-Glossaire IA
+Dépot initiation .md  
+Dépot GlossaireIA .md
