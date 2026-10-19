@@ -25,9 +25,12 @@ Cf : Machine Learning (ML) / Deep Learning / Appentisssage supervisé - non supe
 
 - **CUDA** : (Compute Unified Device Architex=cture) plateforme logicielle de NVIDIA permettant d’utiliser des GPU compatibles pour effectuer des calculs parallèles. Permet en autre de délester le CPU vers le GPU.  
 
-- **Cyberattaque par IA** : attaque informatique dans laquelle l’intelligence artificielle aide à automatiser ou à améliorer certaines opérations.
-- **Danger** : situation ou élément susceptible de provoquer un dommage.
-- **Distillation** : technique d’entraînement dans laquelle un modèle plus petit apprend à reproduire une partie du comportement d’un modèle plus grand.
+- **Cyberattaque par IA** : attaque informatique dans laquelle l’intelligence artificielle aide à automatiser ou à améliorer certaines opérations. (ex : rédaction d'hameçonnage).
+Sert également à la défense (ex : détecter des comportement anormaux).  
+
+- **Danger** : situation ou élément susceptible de provoquer un dommage.  Peut s'agir d'une vulnérabilité, d'un logiciel malveillant, d'une panne ou d'une erreur humaine. En IA, correspond généralemeznt aux erreurs, aux fuites de données et aux actions non autorisées.
+
+- **Distillation** : technique d’entraînement dans laquelle un modèle plus petit apprend à reproduire une partie du comportement d’un modèle plus grand. 
 - **Écoute** : en réseau, attente de connexions ou de messages sur une interface ou un port ; en IA vocale, capture ou analyse de l’audio.
 - **Environnement** : contexte dans lequel un programme ou un agent fonctionne, comprenant notamment le système, les données et les outils accessibles.
 - **Frontière (modèle)** : limite des capacités d’un modèle ; l’expression « modèle de frontière » désigne généralement un modèle d’IA parmi les plus avancés.
