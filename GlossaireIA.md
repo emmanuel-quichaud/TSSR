@@ -65,6 +65,6 @@
 - **Wikipedia** : encyclopédie collaborative en ligne dont les articles sont rédigés et modifiés par des bénévoles.
 
 
-[Glossaire IA CNIL.](https://www.cnil.fr/fr/intelligence-artificielle/glossaire-ia)
+---> [Glossaire IA CNIL.](https://www.cnil.fr/fr/intelligence-artificielle/glossaire-ia)
 
 # En construction et développement 
