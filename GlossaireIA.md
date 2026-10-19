@@ -9,7 +9,7 @@
 - **API** : (Application Programming Interface / Interface de programmation d'application)interface logicielle qui permet à deux programmes ou services informatiques de communiquer et d'échanger des données entre eux
 
 - **Apprentissage** : processus par lequel un modèle ajuste son fonctionnement à partir de données ou d’exemples.  
-### Cf : 
+Cf : 
 - Machine Learning (ML)
 - Deep Learning 
 - Appentisssage supervisé / non supervisé
@@ -67,4 +67,4 @@
 
 ---> [Glossaire IA CNIL.](https://www.cnil.fr/fr/intelligence-artificielle/glossaire-ia)
 
-# En construction et développement 
+# *En construction et développement*  
