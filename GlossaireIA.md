@@ -1,0 +1,53 @@
+- agent
+- algorithme
+- alignement
+- API
+- apprentissage
+- auto-apprentissage
+- automatisation
+- autonomie
+- base de données
+- bulle IA
+- capacité
+- CUDA
+- cyberattaque par IA
+- danger
+- distillation
+- écoute
+- environnement
+- frontière (modèle)
+- génératif
+- gouvernance
+- GPU
+- hallucination
+- harnais
+- HuggingFace
+- inférence
+- injection
+- invasif
+- Limite
+- LLAMA
+- LLM
+- Machine Learning
+- mathématique
+- Mémoire unifiée
+- NVIDIA
+- OpenClaw
+- OpenRouter
+- Paramètre
+- poids
+- Pre-trained
+- prompt
+- RAM(DRAM)
+- RAG
+- Réseau neuronal
+- Robotisation
+- SLOP
+- singularité technologique
+- souveraineté
+- super intelligence
+- token
+- TPU
+- Transformer
+- vérification
+- wikipedia
