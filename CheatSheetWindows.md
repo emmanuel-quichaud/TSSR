@@ -6,26 +6,26 @@
 
   Raccourci                      Action
   ------------------------------ ------------------------------
-  `Win + R`                      Ouvrir **Exécuter**
-  `Win + E`                      Explorateur de fichiers
-  `Win + I`                      Paramètres
-  `Win + X`                      Menu Power User
-  `Win + L`                      Verrouiller la session
-  `Win + D`                      Afficher/masquer le Bureau
-  `Win + M`                      Réduire toutes les fenêtres
-  `Win + Tab`                    Vue des tâches
-  `Alt + Tab`                    Changer de fenêtre
-  `Ctrl + Shift + Esc`           Gestionnaire des tâches
-  `Win + Shift + S`              Capture d'écran
-  `Win + V`                      Historique du Presse-papiers
-  `Win + P`                      Choisir le mode d'affichage
-  `Win + R`, puis `cmd`          Invite de commandes
-  `Win + R`, puis `powershell`   PowerShell
+  `Win + R`                      Ouvrir **Exécuter**  
+  `Win + E`                      Explorateur de fichiers  
+  `Win + I`                      Paramètres  
+  `Win + X`                      Menu Power User  
+  `Win + L`                      Verrouiller la session  
+  `Win + D`                      Afficher/masquer le Bureau  
+  `Win + M`                      Réduire toutes les fenêtres  
+  `Win + Tab`                    Vue des tâches  
+  `Alt + Tab`                    Changer de fenêtre  
+  `Ctrl + Shift + Esc`           Gestionnaire des tâches  
+  `Win + Shift + S`              Capture d'écran  
+  `Win + V`                      Historique du Presse-papiers  
+  `Win + P`                      Choisir le mode d'affichage  
+  `Win + R`, puis `cmd`          Invite de commandes  
+  `Win + R`, puis `powershell`   PowerShell  
 
 ## Win+R -> cmd 
 ### .cpl
-- ncpa.cpa
-- firewall.cpl
+- `ncpa.cpa`
+- `firewall.cpl`
 - appwiz.cl
 - mmsys.cpl
 - powercfg.cpl*
