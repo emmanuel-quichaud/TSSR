@@ -1,9 +1,26 @@
+# Work In Progress
+
 # Cheat Sheet Windows 
-Win+R : Exécuter  
-Win+E : Dossier  
-Win+P : Présentation  
-Win+C : Copilot  
-Win+M : Minimiser les pages  
+
+## Raccourcis essentiels
+
+  Raccourci                      Action
+  ------------------------------ ------------------------------
+  `Win + R`                      Ouvrir **Exécuter**
+  `Win + E`                      Explorateur de fichiers
+  `Win + I`                      Paramètres
+  `Win + X`                      Menu Power User
+  `Win + L`                      Verrouiller la session
+  `Win + D`                      Afficher/masquer le Bureau
+  `Win + M`                      Réduire toutes les fenêtres
+  `Win + Tab`                    Vue des tâches
+  `Alt + Tab`                    Changer de fenêtre
+  `Ctrl + Shift + Esc`           Gestionnaire des tâches
+  `Win + Shift + S`              Capture d'écran
+  `Win + V`                      Historique du Presse-papiers
+  `Win + P`                      Choisir le mode d'affichage
+  `Win + R`, puis `cmd`          Invite de commandes
+  `Win + R`, puis `powershell`   PowerShell
 
 ## Win+R -> cmd 
 ### .cpl
@@ -32,7 +49,7 @@ Win+M : Minimiser les pages
 - regedit
 - mstsc
 - mmc 
-- cmd
+- cmd : shell
 - cleanmgr
 - mrt 
 - msinfo32
