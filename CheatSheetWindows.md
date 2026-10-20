@@ -26,11 +26,11 @@
 ### .cpl
 - `ncpa.cpa`
 - `firewall.cpl`
-- appwiz.cl
-- mmsys.cpl
-- powercfg.cpl*
-- sysdm.cpl
-- main.cpl
+- `pwiz.cpl`
+- `mmsys.cpl`
+- `powercfg.cpl`
+- `sysdm.cpl`
+- `main.cpl`
 
 ### .msc
 - gpedit.msc
